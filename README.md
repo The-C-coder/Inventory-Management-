@@ -1,5 +1,5 @@
-# processing-of-examination-marks
-C program with pointers calculating examination marks
+# Inventory Management System
+C program.....
 /**************************************************/
 
 Application: Inventory Management System
